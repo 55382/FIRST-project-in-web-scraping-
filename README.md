@@ -1,4 +1,4 @@
-# FIRST-project-in-web-scraping-
+# FIRST-project-in-web-scraping-Beautiful soup
 I used Beautiful soup  on the  page "books to scrape " 
 my work was about :
 Scraping  the books (name, price, rate) for each category and put them into a CSV & Excel file
